@@ -1,6 +1,6 @@
 # 🛡️ Basic Network Sniffer
 
-A simple yet powerful **Python-based Network Sniffer** built as part of the **CodeAlpha Cyber Security Bootcamp**.  
+A simple yet powerful **Python-based Network Sniffer** built as part of the **CodeAlpha Cyber Security Project**.  
 This project demonstrates how to capture and analyze network packets using Python, providing insights into network traffic for educational and security purposes.
 
 ---
@@ -15,8 +15,6 @@ CodeAlpha_Basic-Network-Sniffer/
 
 ---
 
-
----
 
 ## 🚀 Features
 - Captures live network packets.
@@ -77,7 +75,7 @@ This project is licensed under the MIT License – see the file for details.
 ---
 
 ## 🙌 Acknowledgements
-- CodeAlpha Bootcamp for project inspiration.
+- CodeAlpha for project inspiration.
 - Python community for libraries and resources.
 
 ---

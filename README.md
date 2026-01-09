@@ -82,6 +82,11 @@ This project is licensed under the MIT License – see the file for details.
 
 ---
 
+## 👨‍💻 Author
+
+**Ashish Raj**  
+
+Passionate about AI, ML, and creative applications of technology.
 
 📌 GitHub Profile:- https://github.com/ashishraj-hub
 

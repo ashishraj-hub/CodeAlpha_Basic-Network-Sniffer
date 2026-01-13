@@ -84,7 +84,7 @@ This project is licensed under the MIT License – see the file for details.
 
 **Ashish Raj**  
 
-Passionate about AI, ML, and creative applications of technology.
+Cyber Security Student| Cyber Security Enthusiastic
 
 📌 GitHub Profile:- https://github.com/ashishraj-hub
 
